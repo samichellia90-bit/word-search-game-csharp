@@ -1,5 +1,7 @@
 # Word Search Game (C#)
 
+[![tests](https://github.com/samichellia90-bit/word-search-game-csharp/actions/workflows/tests.yml/badge.svg)](https://github.com/samichellia90-bit/word-search-game-csharp/actions/workflows/tests.yml)
+
 A console word-search game for several players: the program generates letter grids from a French or English dictionary, and players locate hidden words against the clock.
 First-year algorithmics project (2022), written in C# on .NET.
 
