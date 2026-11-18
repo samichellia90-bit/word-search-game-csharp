@@ -1,0 +1,17 @@
+# .NET build output
+bin/
+obj/
+TestResults/
+*.user
+*.suo
+
+# Secrets
+.env
+
+# OS and editors
+.DS_Store
+Thumbs.db
+desktop.ini
+.vs/
+.vscode/
+.idea/
